@@ -1,0 +1,27 @@
+{
+  "name": "reactapp",
+  "version": "1.0.0",
+  "description": "My React App",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChiranjeeviAllem/ReactApp.git"
+  },
+  "author": "Chiranjeevi Allem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChiranjeeviAllem/ReactApp/issues"
+  },
+  "homepage": "https://github.com/ChiranjeeviAllem/ReactApp#readme",
+  "devDependencies": {
+    "parcel": "^2.13.2",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
